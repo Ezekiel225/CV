@@ -1,1 +1,4 @@
-# cv
+- 👋 Hi, I’m @Ezekiel225
+- 👀 I’m interested in building my own website
+- 🌱 I’m currently learning bootstrap
+- 📫 How to reach me - olaniyiezekiel212@gmail.com
